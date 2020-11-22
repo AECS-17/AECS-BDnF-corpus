@@ -1,0 +1,17 @@
+<Cluster>
+  <name>Corpus AECS - Décors</name>
+  <Assets>
+    <Asset>
+      <filename>local-aecs-001.png</filename>
+      <title>Local AECS - Tableau</title>
+      <author>Frédéric Wang</author>
+      <artLink>https://github.com/AECS-17/BDnF-corpus-AECS</artLink>
+    </Asset>
+    <Asset>
+      <filename>local-aecs-002.png</filename>
+      <title>Local AECS - Piano et Jeux</title>
+      <author>Frédéric Wang</author>
+      <artLink>https://github.com/AECS-17/BDnF-corpus-AECS</artLink>
+    </Asset>
+  </Assets>
+</Cluster>
