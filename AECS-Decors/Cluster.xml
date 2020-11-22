@@ -5,13 +5,19 @@
       <filename>local-aecs-001.png</filename>
       <title>Local AECS - Tableau</title>
       <author>Frédéric Wang</author>
-      <artLink>https://github.com/AECS-17/BDnF-corpus-AECS</artLink>
+      <artLink>https://github.com/AECS-17/AECS-BDnF-corpus</artLink>
     </Asset>
     <Asset>
       <filename>local-aecs-002.png</filename>
       <title>Local AECS - Piano et Jeux</title>
       <author>Frédéric Wang</author>
-      <artLink>https://github.com/AECS-17/BDnF-corpus-AECS</artLink>
+      <artLink>https://github.com/AECS-17/AECS-BDnF-corpus</artLink>
+    </Asset>
+    <Asset>
+      <filename>local-aecs-003.png</filename>
+      <title>Local AECS - Ordinateurs</title>
+      <author>Frédéric Wang</author>
+      <artLink>https://github.com/AECS-17/AECS-BDnF-corpus</artLink>
     </Asset>
   </Assets>
 </Cluster>
