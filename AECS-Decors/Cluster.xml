@@ -3,21 +3,21 @@
   <Assets>
     <Asset>
       <filename>local-aecs-001.png</filename>
-      <title>Local AECS - Tableau</title>
+      <title>Local AECS (Tableau)</title>
       <author>Frédéric Wang</author>
-      <artLink>https://github.com/AECS-17/AECS-BDnF-corpus</artLink>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
       <filename>local-aecs-002.png</filename>
-      <title>Local AECS - Piano et Jeux</title>
+      <title>Local AECS (Piano et Jeux)</title>
       <author>Frédéric Wang</author>
-      <artLink>https://github.com/AECS-17/AECS-BDnF-corpus</artLink>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
       <filename>local-aecs-003.png</filename>
-      <title>Local AECS - Ordinateurs</title>
+      <title>Local AECS (Ordinateurs)</title>
       <author>Frédéric Wang</author>
-      <artLink>https://github.com/AECS-17/AECS-BDnF-corpus</artLink>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
   </Assets>
 </Cluster>
