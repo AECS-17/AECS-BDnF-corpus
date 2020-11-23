@@ -1,0 +1,23 @@
+<Cluster>
+  <name>Corpus AECS - Garçon</name>
+  <Assets>
+    <Asset>
+      <filename>garcon-neutre-001.png</filename>
+      <title>Garçon neutre (teint clair)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-neutre-002.png</filename>
+      <title>Garçon neutre (teint mat)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-neutre-003.png</filename>
+      <title>Garçon neutre (teint foncé)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+  </Assets>
+</Cluster>

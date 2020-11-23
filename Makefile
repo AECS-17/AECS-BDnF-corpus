@@ -29,7 +29,7 @@
 CONVERT=convert
 ZIP=zip
 
-all: clean AECS-Decors.zip
+all: clean AECS-Decors.zip AECS-Fille.zip AECS-Garcon.zip
 
 %.zip: %
 	echo "Generating corpus for "$<" ..."

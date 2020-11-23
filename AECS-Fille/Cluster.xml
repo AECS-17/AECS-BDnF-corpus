@@ -1,0 +1,23 @@
+<Cluster>
+  <name>Corpus AECS - Fille</name>
+  <Assets>
+    <Asset>
+      <filename>fille-neutre-001.png</filename>
+      <title>Fille neutre (teint clair)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-neutre-002.png</filename>
+      <title>Fille neutre (teint mat)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-neutre-003.png</filename>
+      <title>Fille neutre (teint foncé)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+  </Assets>
+</Cluster>
