@@ -19,5 +19,11 @@
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
+    <Asset>
+      <filename>local-aecs-004.png</filename>
+      <title>Local AECS (Entrée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
   </Assets>
 </Cluster>
