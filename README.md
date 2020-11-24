@@ -6,6 +6,6 @@ simply running the command
 
     make all
 
-on a Linux system with programs `zip` and `convert` installed.
+on a Linux system with programs `zip`, `sed` and `convert` installed.
 
 All the images are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The makefile is under the 3-Clause BSD license.

@@ -2,20 +2,20 @@
   <name>Corpus AECS - Fille</name>
   <Assets>
     <Asset>
-      <filename>fille-neutre-001.png</filename>
-      <title>Fille neutre (teint clair)</title>
+      <filename>fille-neutre-peau-claire.png</filename>
+      <title>Fille neutre (peau claire)</title>
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
-      <filename>fille-neutre-002.png</filename>
-      <title>Fille neutre (teint mat)</title>
+      <filename>fille-neutre-peau-mate.png</filename>
+      <title>Fille neutre (peau mate)</title>
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
-      <filename>fille-neutre-003.png</filename>
-      <title>Fille neutre (teint foncé)</title>
+      <filename>fille-neutre-peau-foncée.png</filename>
+      <title>Fille neutre (peau foncée)</title>
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
