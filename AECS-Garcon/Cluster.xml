@@ -20,6 +20,42 @@
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
+      <filename>garcon-joie-peau-claire.png</filename>
+      <title>Garçon joie (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-joie-peau-mate.png</filename>
+      <title>Garçon joie (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-joie-peau-foncee.png</filename>
+      <title>Garçon joie (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-grognon-peau-claire.png</filename>
+      <title>Garçon grognon (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-grognon-peau-mate.png</filename>
+      <title>Garçon grognon (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-grognon-peau-foncee.png</filename>
+      <title>Garçon grognon (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
       <filename>garcon-marche-peau-claire.png</filename>
       <title>Garçon marche (peau claire)</title>
       <author>Frédéric Wang</author>
@@ -52,6 +88,42 @@
     <Asset>
       <filename>garcon-course-peau-foncee.png</filename>
       <title>Garçon course (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-saut-peau-claire.png</filename>
+      <title>Garçon saut (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-saut-peau-mate.png</filename>
+      <title>Garçon saut (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-saut-peau-foncee.png</filename>
+      <title>Garçon saut (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-colere-peau-claire.png</filename>
+      <title>Garçon colère (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-colere-peau-mate.png</filename>
+      <title>Garçon colère (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-colere-peau-foncee.png</filename>
+      <title>Garçon colère (peau foncée)</title>
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>

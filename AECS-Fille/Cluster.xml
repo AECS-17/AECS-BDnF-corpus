@@ -20,6 +20,42 @@
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
+      <filename>fille-joie-peau-claire.png</filename>
+      <title>Fille joie (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-joie-peau-mate.png</filename>
+      <title>Fille joie (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-joie-peau-foncee.png</filename>
+      <title>Fille joie (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-grognon-peau-claire.png</filename>
+      <title>Fille grognon (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-grognon-peau-mate.png</filename>
+      <title>Fille grognon (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-grognon-peau-foncee.png</filename>
+      <title>Fille grognon (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
       <filename>fille-marche-peau-claire.png</filename>
       <title>Fille marche (peau claire)</title>
       <author>Frédéric Wang</author>
@@ -52,6 +88,42 @@
     <Asset>
       <filename>fille-course-peau-foncee.png</filename>
       <title>Fille course (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-saut-peau-claire.png</filename>
+      <title>Fille saut (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-saut-peau-mate.png</filename>
+      <title>Fille saut (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-saut-peau-foncee.png</filename>
+      <title>Fille saut (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-colere-peau-claire.png</filename>
+      <title>Fille colère (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-colere-peau-mate.png</filename>
+      <title>Fille colère (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-colere-peau-foncee.png</filename>
+      <title>Fille colère (peau foncée)</title>
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
