@@ -38,9 +38,9 @@ all: clean AECS-Decors.zip AECS-Fille.zip AECS-Garcon.zip
 # Convert SVG images to PNG (high res and thumbnails).
 	mkdir -p $</Highres $</Thumbnails
 	for name in `cd $< ; find -type f -name '*.svg.in' | $(SED) 's/\.svg\.in//'`; do \
-		$(SED) -e 's/fill:#ff0000/fill:#f4d7d7/g' -e 's/fill:#00ff00/fill:#d38d5f/g' $</$$name.svg.in > $</$$name-peau-claire.svg; \
-		$(SED) -e 's/fill:#ff0000/fill:#ff7f2a/g' -e 's/fill:#00ff00/fill:#280b0b/g' $</$$name.svg.in > $</$$name-peau-mate.svg; \
-		$(SED) -e 's/fill:#ff0000/fill:#2b1100/g' -e 's/fill:#00ff00/fill:#000000/g' $</$$name.svg.in > $</$$name-peau-foncee.svg; \
+		$(SED) -e 's/fill:#ff0000/fill:#f4d7d7/g' -e 's/fill:#00ff00/fill:#ffeeaa/g' $</$$name.svg.in > $</$$name-peau-claire.svg; \
+		$(SED) -e 's/fill:#ff0000/fill:#ffb481/g' -e 's/fill:#00ff00/fill:#280b0b/g' $</$$name.svg.in > $</$$name-peau-mate.svg; \
+		$(SED) -e 's/fill:#ff0000/fill:#532200/g' -e 's/fill:#00ff00/fill:#000000/g' $</$$name.svg.in > $</$$name-peau-foncee.svg; \
 	done; \
 	for name in `cd $< ; find -type f -name '*.svg' | $(SED) 's/\.svg//'`; do \
 		$(CONVERT) -background transparent $</$$name.svg -resize 1600x1600 $</Highres/$$name.png; \
