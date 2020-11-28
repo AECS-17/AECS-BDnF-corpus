@@ -181,5 +181,23 @@
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
+    <Asset>
+      <filename>garcon-tristesse-peau-claire.png</filename>
+      <title>Garçon tristesse (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-tristesse-peau-mate.png</filename>
+      <title>Garçon tristesse (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-tristesse-peau-foncee.png</filename>
+      <title>Garçon tristesse (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
   </Assets>
 </Cluster>
