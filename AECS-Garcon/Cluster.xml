@@ -230,8 +230,26 @@
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
-      <filename>garcon-degout-peau-foncee.png</filename>
-      <title>Garçon degout (peau foncée)</title>
+      <filename>garcon-suspicion-peau-foncee.png</filename>
+      <title>Garçon suspicion (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-suspicion-peau-claire.png</filename>
+      <title>Garçon suspicion (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-suspicion-peau-mate.png</filename>
+      <title>Garçon suspicion (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-suspicion-peau-foncee.png</filename>
+      <title>Garçon suspicion (peau foncée)</title>
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
