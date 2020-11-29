@@ -236,6 +236,24 @@
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
+      <filename>garcon-bizarre-peau-claire.png</filename>
+      <title>Garçon bizarre (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-bizarre-peau-mate.png</filename>
+      <title>Garçon bizarre (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-bizarre-peau-foncee.png</filename>
+      <title>Garçon bizarre (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
       <filename>garcon-suspicion-peau-claire.png</filename>
       <title>Garçon suspicion (peau claire)</title>
       <author>Frédéric Wang</author>

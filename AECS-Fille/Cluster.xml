@@ -236,6 +236,24 @@
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
+      <filename>fille-bizarre-peau-claire.png</filename>
+      <title>Fille bizarre (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-bizarre-peau-mate.png</filename>
+      <title>Fille bizarre (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-bizarre-peau-foncee.png</filename>
+      <title>Fille bizarre (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
       <filename>fille-suspicion-peau-claire.png</filename>
       <title>Fille suspicion (peau claire)</title>
       <author>Frédéric Wang</author>
