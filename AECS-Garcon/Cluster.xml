@@ -176,8 +176,26 @@
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
-      <filename>garcon-surprise-peau-foncee.png</filename>
-      <title>Garçon surprise (peau foncée)</title>
+      <filename>garcon-menace-peau-foncee.png</filename>
+      <title>Garçon menace (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-menace-peau-claire.png</filename>
+      <title>Garçon menace (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-menace-peau-mate.png</filename>
+      <title>Garçon menace (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-menace-peau-foncee.png</filename>
+      <title>Garçon menace (peau foncée)</title>
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>

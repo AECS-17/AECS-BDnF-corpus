@@ -182,6 +182,24 @@
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
     <Asset>
+      <filename>fille-menace-peau-claire.png</filename>
+      <title>Fille menace (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-menace-peau-mate.png</filename>
+      <title>Fille menace (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-menace-peau-foncee.png</filename>
+      <title>Fille menace (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
       <filename>fille-tristesse-peau-claire.png</filename>
       <title>Fille tristesse (peau claire)</title>
       <author>Frédéric Wang</author>
