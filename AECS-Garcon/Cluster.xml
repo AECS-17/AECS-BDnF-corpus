@@ -199,5 +199,23 @@
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
+    <Asset>
+      <filename>garcon-degout-peau-claire.png</filename>
+      <title>Garçon degout (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-degout-peau-mate.png</filename>
+      <title>Garçon degout (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>garcon-degout-peau-foncee.png</filename>
+      <title>Garçon degout (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
   </Assets>
 </Cluster>

@@ -199,5 +199,23 @@
       <author>Frédéric Wang</author>
       <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
     </Asset>
+    <Asset>
+      <filename>fille-degout-peau-claire.png</filename>
+      <title>Fille degout (peau claire)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-degout-peau-mate.png</filename>
+      <title>Fille degout (peau mate)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
+    <Asset>
+      <filename>fille-degout-peau-foncee.png</filename>
+      <title>Fille degout (peau foncée)</title>
+      <author>Frédéric Wang</author>
+      <arkLink>https://github.com/AECS-17/AECS-BDnF-corpus</arkLink>
+    </Asset>
   </Assets>
 </Cluster>
